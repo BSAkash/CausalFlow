@@ -98,4 +98,4 @@ python baseline_comparison/experiments/run_sealqa_baselines.py --workers 4
 
 ## Citation
 
-The NeurIPS 2026 submission is under anonymous review, so public citation metadata is intentionally omitted. Citation details can be added after a public preprint or accepted version is available.
+The submission is under anonymous review, so public citation metadata is intentionally omitted. Citation details can be added after a public preprint or accepted version is available.
